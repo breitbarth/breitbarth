@@ -10,10 +10,12 @@ I connect experience leading regional sales teams with Python, Structured Query 
 - Data analysis and repeatable research workflows.
 - Interactive experiences and product prototypes.
 
-## Learning work
+## Explore the public work
 
-- [Azure Machine Learning experiments](https://github.com/breitbarth/AzureML)
-- [Natural language processing workshop notebooks](https://github.com/breitbarth/Intro_to_NLP)
+| Start here | What you will find |
+| --- | --- |
+| [Repository guide](https://github.com/breitbarth/busywork) | A categorized index separating learning work, experiments, templates, and reference forks |
+| [Introductory machine learning](https://github.com/breitbarth/AzureML) | Iris classification, held-out evaluation, and compatibility notes for a historical workshop |
+| [Natural language processing](https://github.com/breitbarth/Intro_to_NLP) | Text preparation, vectorization, and sentiment-classification workshop material |
 
-Those repositories contain learning materials. Forked repositories on this account retain their upstream attribution.
-
+The project explanations describe the process, problem, example, impact, confirmation method, and relevant features. They distinguish demonstrated results from proposed benefits. These notebook repositories contain learning materials and retain their workshop credits; forked repositories retain upstream attribution.
