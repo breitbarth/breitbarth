@@ -4,6 +4,14 @@ By Aaron Breitbarth
 
 A repeatable way to turn sales work into a résumé a hiring manager can scan and an interview story you can defend. Use it for outbound sales, account executive, and sales leadership applications.
 
+## How I use artificial intelligence
+
+I use artificial intelligence as an editor. I supply the career facts, choose which examples fit the role, and approve the final wording. It can suggest a shorter bullet, flag vague language, or compare a draft with a job posting.
+
+Before sending, I check each claim against my notes, read the draft aloud, and make sure I can explain every example in an interview. If a tool suggests a number, title, skill, or result I cannot support, I remove it.
+
+For the steps before and after the résumé, see [My job search process](job-search-process.md).
+
 ## 1. Build an evidence bank
 
 Keep this worksheet private. Document a single result per row and point to whatever supports it.
