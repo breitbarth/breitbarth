@@ -1,6 +1,6 @@
-# Project preservation and development backlog
+# Build-first project backlog
 
-Preserve first; expand when chosen. Every proposed deliverable is a backlog item, not an assertion of completed work. Original authorship: Aaron Breitbarth; AI-assisted drafting and suggested implementations.
+Build-first begins by assembling the ingredients: original questions, examples, source materials, documentation and existing artifacts. Then select a concrete implementation slice. Every proposed deliverable is a backlog item, not an assertion of completed work. Original authorship: Aaron Breitbarth; AI-assisted drafting and suggested implementations.
 
 | Project | Current evidence | Preserved next deliverable | Acceptance check |
 |---|---|---|---|
