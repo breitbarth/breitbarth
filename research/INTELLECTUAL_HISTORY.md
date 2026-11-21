@@ -7,6 +7,7 @@ Recovered discussion dates, not independently verified invention dates. Attribut
 | January 8, 2026 | Human capacity as a constraint on resource utilization | [Human Solvency](human-solvency.md) |
 | June 12, 2026 | Can the sand eventually alter the vibrating plate? | [Social Cymatics](social-cymatics.md) |
 | August 10–17, 2026 | Where can an actor intervene in a system represented by rope? | [The Knot](the-knot.md) |
+| August 11, 2026 | What is superior intelligence without aha understanding? | [Thought Math: insight vs computation](../thought-math/THESIS.md) |
 | September 4, 2026 | Sensory topology and mathematical representation | [Thought Math](../thought-math/README.md) |
 | September 19, 2026 | Finite vs renewable capacity to think | [Thought Reserve example](../docs/lab/reserve.html) |
 | October 2, 2026 | Working definition of Thought Math | [Thesis](../thought-math/THESIS.md) |
