@@ -1,6 +1,6 @@
 # Aaron Breitbarth
 
-**Sales leadership | Revenue operations | Applied psychology | Data analytics**
+**Sales leadership | Revenue operations | Behavioral economics | Data analytics**
 
 I build repeatable systems that help people and businesses make better decisions. My work connects regional sales leadership with Python, Structured Query Language (SQL), geographic information systems (GIS), and data visualization.
 
@@ -19,6 +19,8 @@ I build repeatable systems that help people and businesses make better decisions
 | [Introductory machine learning](https://github.com/breitbarth/AzureML) | Iris classification and held-out evaluation; historical workshop |
 | [Natural language processing](https://github.com/breitbarth/Intro_to_NLP) | Text preparation, vectorization and sentiment classification; workshop |
 | [Project standards](PROJECT_STANDARD.md) | How I structure, document and evaluate projects |
+
+[Full public project index](PORTFOLIO.md) · [Reusable project template](templates/README.md)
 
 ## How I work
 
