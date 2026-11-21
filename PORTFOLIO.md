@@ -15,3 +15,5 @@ See [project standards](PROJECT_STANDARD.md) for evidence and release requiremen
 ## Research initiatives
 
 [Thought Math](thought-math/README.md) — mathematical cognition, representation and transfer; research scaffold, no empirical results yet.
+
+[Independent Research Collection](research/README.md) — Social Cymatics, Human Solvency and Embedded Systems Intervention; exploratory hypotheses and proposed tests.
