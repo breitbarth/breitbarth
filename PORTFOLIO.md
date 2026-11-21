@@ -1,6 +1,6 @@
 # Public portfolio
 
-Curated by Aaron Breitbarth. Preserve first, expand deliberately. Status labels describe artifacts, not claims of scientific validation or commercial success.
+Curated by Aaron Breitbarth. Build-first: assemble the ingredients, then develop deliberately. Status labels describe artifacts, not claims of scientific validation or commercial success.
 
 | Collection | Project | Evidence |
 | --- | --- | --- |
