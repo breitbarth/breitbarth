@@ -11,3 +11,7 @@ Curated by Aaron Breitbarth. This index distinguishes learning evidence from ori
 | [Job search operating system](career/README.md) | Sales operations and career development | Documented workflow; outcome validation pending |
 
 See [project standards](PROJECT_STANDARD.md) for evidence and release requirements.
+
+## Research initiatives
+
+[Thought Math](thought-math/README.md) — mathematical cognition, representation and transfer; research scaffold, no empirical results yet.
