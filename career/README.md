@@ -31,3 +31,7 @@ Track qualified applications, response rate, interview rate, offers and time spe
 - Pipeline tracking and retrospective
 
 See [pipeline template](pipeline.csv). Use fictional or anonymized examples in public repositories. Keep actual applications and contact details private.
+
+## Related methods
+
+[Resume engineering](RESUME_ENGINEERING.md) · [Field Notes](../field-notes/README.md)
