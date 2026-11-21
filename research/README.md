@@ -8,3 +8,7 @@ Exploratory research notes connecting representation, incentives, feedback and s
 - [Thought Math](../thought-math/README.md)
 
 Each note distinguishes analogy, proposed mechanism and empirical test. Commercial and confidential research is excluded.
+
+## Working records
+
+[Recovered idea ledger](IDEA_LEDGER.md) · [Preservation and development backlog](../PROJECT_BACKLOG.md)
