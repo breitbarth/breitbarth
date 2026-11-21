@@ -13,3 +13,7 @@ Preserve first; expand when chosen. Every proposed deliverable is a backlog item
 
 ## Preservation protocol
 Before ending a substantive project session, record: original question and date if known; idea owner; example; artifact or exact link; what was actually tested; open questions; next action. Distinguish source recovery, new scaffolding and proposed work. Keep private items in the private project catalog. Never claim an unimplemented suggestion is already built. Do not publish confidential source material merely to fill the public index.
+
+## Documentation-first next steps
+
+The Knot — preserve the rope metaphor and define a worked network example before selecting a simulation. See [research note](research/the-knot.md). Social Cymatics, Thought Math and Thought Reserve examples are indexed in [the example library](research/EXAMPLES.md). Reconcile actual artifact status before starting any new implementation.
