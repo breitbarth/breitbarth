@@ -7,3 +7,7 @@ Can artificial intelligence discover new mathematics and also create representat
 Distinguish formal topology from metaphor: when claiming invariance, specify objects, mappings and preserved relations. A representation is useful when it supports independent reasoning beyond the original example.
 
 Original project direction: Aaron Anthony Breitbarth. AI-assisted elaboration; no claim of priority over existing mathematical cognition research.
+
+## Insight versus computation
+
+On August 11, 2026, Aaron asked, “What is superior intelligence without aha understanding?” This recovered question predates the October working definition of Thought Math and motivates a distinction between producing a correct answer and restructuring one's representation of a problem. A proposed evaluation compares answer accuracy with identification of a newly recognized relationship and independent transfer. This evaluation is a later suggested extension, not a completed experiment.
