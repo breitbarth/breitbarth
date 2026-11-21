@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this research initiative if you build on it."
+title: "Thought Math"
+authors:
+  - family-names: Breitbarth
+    given-names: Aaron Anthony
+version: "0.1.0"
+date-released: "2026-11-20"
+url: "https://github.com/breitbarth/breitbarth/tree/main/thought-math"
+type: software
