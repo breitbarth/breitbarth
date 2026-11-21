@@ -8,6 +8,7 @@ I build repeatable systems that help people and businesses make better decisions
 
 ## Business experience
 
+- Prospecting; new account focused Direct Sales
 - Led regional field sales teams of up to 14 people.
 - Led sales teams through territory launches, changing market conditions and performance improvement.
 - Coordinated territory activation with survey and construction teams.
