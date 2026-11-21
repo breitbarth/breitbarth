@@ -27,3 +27,5 @@ Feedback, modularity, interoperability and adaptation. Literature review leads: 
 The original conversation imagined systems as configurations of rope that can be moved, whipped, hit, tangled or untangled. Aaron's phrase was “sneak a system into a system.” The central question is where an actor embedded in a system can intervene to change its configuration or subsequent behavior.
 
 The Knot is the broader conceptual metaphor; Embedded Systems Intervention is one proposed applied research direction. Distinguish topology (structure surviving transformations), cybernetics (regulation and feedback), complexity (global order from local interactions), and intervention (where and how to change a system). Investigate the rope's material, what maintains its shape, how motion propagates and which transformations are possible. Physical knot topology is not automatically a model of social dynamics; formal correspondences would need to be defined and tested.
+
+See [The Knot](the-knot.md) for the foundational concept and [worked examples](EXAMPLES.md).
