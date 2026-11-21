@@ -4,10 +4,12 @@
 
 I build repeatable systems that help people and businesses make better decisions. My work connects regional sales leadership with Python, Structured Query Language (SQL), geographic information systems (GIS), and data visualization.
 
+*Curiosity is a competitive advantage.*
+
 ## Business experience
 
 - Led regional field sales teams of up to 14 people.
-- Delivered 224 sales against a target of 160 in September 2026 (140% attainment).
+- Led sales teams through territory launches, changing market conditions and performance improvement.
 - Coordinated territory activation with survey and construction teams.
 - Developed coaching, onboarding, and performance management processes.
 
