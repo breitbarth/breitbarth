@@ -1,21 +1,33 @@
 # Aaron Breitbarth
 
-Sales leadership, data analysis, and practical product experiments.
+**Sales leadership | Revenue operations | Applied psychology | Data analytics**
 
-I connect experience leading regional sales teams with Python, Structured Query Language (SQL), geographic information systems (GIS), and data visualization. I’m interested in tools that make decisions clearer and turn useful ideas into testable projects.
+I build repeatable systems that help people and businesses make better decisions. My work connects regional sales leadership with Python, Structured Query Language (SQL), geographic information systems (GIS), and data visualization.
 
-## What I work on
+## Business experience
 
-- Sales operations, territory planning, and team development.
-- Data analysis and repeatable research workflows.
-- Interactive experiences and product prototypes.
+- Led regional field sales teams of up to 14 people.
+- Delivered 224 sales against a target of 160 in September 2026 (140% attainment).
+- Coordinated territory activation with survey and construction teams.
+- Developed coaching, onboarding, and performance management processes.
 
-## Explore the public work
+## Explore my public work
 
-| Start here | What you will find |
+| Repository | Focus |
 | --- | --- |
-| [Repository guide](https://github.com/breitbarth/busywork) | A categorized index separating learning work, experiments, templates, and reference forks |
-| [Introductory machine learning](https://github.com/breitbarth/AzureML) | Iris classification, held-out evaluation, and compatibility notes for a historical workshop |
-| [Natural language processing](https://github.com/breitbarth/Intro_to_NLP) | Text preparation, vectorization, and sentiment-classification workshop material |
+| [Repository guide](https://github.com/breitbarth/busywork) | Learning projects, experiments, templates and reference forks |
+| [Introductory machine learning](https://github.com/breitbarth/AzureML) | Iris classification and held-out evaluation; historical workshop |
+| [Natural language processing](https://github.com/breitbarth/Intro_to_NLP) | Text preparation, vectorization and sentiment classification; workshop |
+| [Project standards](PROJECT_STANDARD.md) | How I structure, document and evaluate projects |
 
-The project explanations describe the process, problem, example, impact, confirmation method, and relevant features. They distinguish demonstrated results from proposed benefits. These notebook repositories contain learning materials and retain their workshop credits; forked repositories retain upstream attribution.
+## How I work
+
+**Process · Problem · Example · Impact · Confirm · Relevant features**
+
+I distinguish demonstrated results from intended benefits, preserve upstream attribution, and document the limitations of experiments. See my [AI-assisted development principles](AI_USAGE.md).
+
+## Technical interests
+
+Python · SQL · Geographic analysis · Power BI · Linux · Docker · Human-computer interaction
+
+Open to sales leadership, sales operations, analytics and product-oriented opportunities.
