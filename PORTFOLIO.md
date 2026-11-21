@@ -1,25 +1,25 @@
-# Public project portfolio
+# Public portfolio
 
-Curated by Aaron Breitbarth. This index distinguishes learning evidence from original product development. Public visibility does not imply original authorship or production readiness.
+Curated by Aaron Breitbarth. Preserve first, expand deliberately. Status labels describe artifacts, not claims of scientific validation or commercial success.
 
-| Project | Area | Evidence |
+| Collection | Project | Evidence |
 | --- | --- | --- |
-| [AzureML](https://github.com/breitbarth/AzureML) | Applied machine learning | Historical Iris classification workshop |
-| [Intro_to_NLP](https://github.com/breitbarth/Intro_to_NLP) | Natural language processing | Historical text processing workshop |
-| [Repository guide](https://github.com/breitbarth/busywork) | Learning archive | Repository classification and upstream references |
-| [Project template](templates/README.md) | Engineering process | Reusable documentation scaffold |
-| [Job search operating system](career/README.md) | Sales operations and career development | Documented workflow; outcome validation pending |
+| Curiosity Cabinet | [The Knot](research/the-knot.md) | Reconstructed research note |
+| Curiosity Cabinet | [Thought Math](thought-math/README.md) | Thesis, experimental protocol and illustrative demo |
+| Curiosity Cabinet | [Social Cymatics](research/social-cymatics.md) | Hypothesis and proposed computational test |
+| Curiosity Cabinet | [Human Solvency](research/human-solvency.md) | Exploratory framework |
+| Curiosity Cabinet | [Embedded Systems Intervention](research/embedded-systems-intervention.md) | Proposed applied framework |
+| Engine Room | [Job Search Operating System](career/README.md) | Documented workflow |
+| Engine Room | [Resume engineering](career/RESUME_ENGINEERING.md) | Scoring heuristic and quality gate |
+| Engine Room | [Project template](templates/README.md) | Documentation scaffold |
+| Playground | [Thought Math lab](docs/lab/representation.html) | Standalone illustrative source |
+| Playground | [Thought Reserve](docs/lab/reserve.html) | Clean illustrative reconstruction |
+| Field Notes | [Sales leadership methods](field-notes/README.md) | Generalized methods and fictional examples |
+| Library | [AzureML](https://github.com/breitbarth/AzureML) | Historical workshop |
+| Library | [Intro_to_NLP](https://github.com/breitbarth/Intro_to_NLP) | Historical workshop |
+| Library | [Repository guide](https://github.com/breitbarth/busywork) | Classified learning archive and upstream references |
 
-See [project standards](PROJECT_STANDARD.md) for evidence and release requirements.
+## Preservation and collaboration
+[Research collection](research/README.md) · [Idea ledger](research/IDEA_LEDGER.md) · [Worked examples](research/EXAMPLES.md) · [Chronology](research/INTELLECTUAL_HISTORY.md) · [Backlog](PROJECT_BACKLOG.md) · [Contribution guidance](CONTRIBUTING.md) · [Citation guidance](research/CITATION.md).
 
-## Research initiatives
-
-[Thought Math](thought-math/README.md) — mathematical cognition, representation and transfer; research scaffold, no empirical results yet.
-
-[Independent Research Collection](research/README.md) — Social Cymatics, Human Solvency and Embedded Systems Intervention; exploratory hypotheses and proposed tests.
-
-## Preserved examples and next steps
-
-- [Idea ledger](research/IDEA_LEDGER.md): recovered original questions and experiments.
-- [Project backlog](PROJECT_BACKLOG.md): proposed deliverables, current evidence and acceptance checks.
-- [Representation Laboratory](docs/lab/representation.html) and [Thought Reserve](docs/lab/reserve.html): standalone demonstration source; browser testing pending.
+Demonstrations have not been browser-tested in this review. No new license has been selected. Public visibility is not a claim of original authorship of upstream work.
