@@ -36,3 +36,7 @@ I distinguish demonstrated results from intended benefits, preserve upstream att
 Python · SQL · Geographic analysis · Power BI · Linux · Docker · Human-computer interaction
 
 Open to sales leadership, sales operations, analytics and product-oriented opportunities.
+
+## The Curiosity Cabinet
+
+[Research idea ledger](research/IDEA_LEDGER.md) · [Project backlog](PROJECT_BACKLOG.md) · [Interactive examples (source)](docs/lab)
