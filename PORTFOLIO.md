@@ -17,3 +17,9 @@ See [project standards](PROJECT_STANDARD.md) for evidence and release requiremen
 [Thought Math](thought-math/README.md) — mathematical cognition, representation and transfer; research scaffold, no empirical results yet.
 
 [Independent Research Collection](research/README.md) — Social Cymatics, Human Solvency and Embedded Systems Intervention; exploratory hypotheses and proposed tests.
+
+## Preserved examples and next steps
+
+- [Idea ledger](research/IDEA_LEDGER.md): recovered original questions and experiments.
+- [Project backlog](PROJECT_BACKLOG.md): proposed deliverables, current evidence and acceptance checks.
+- [Representation Laboratory](docs/lab/representation.html) and [Thought Reserve](docs/lab/reserve.html): standalone demonstration source; browser testing pending.
