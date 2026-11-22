@@ -22,3 +22,7 @@ Measure novel-problem accuracy, explanation quality, retention and transfer, not
 
 ## Relevant features
 [Thesis](THESIS.md) · [Research questions](research/QUESTIONS.md) · [Experiment protocol](experiments/TRANSFER.md) · [References](references/README.md) · [Citation](CITATION.cff)
+
+## Interactive Insight Laboratory
+
+[Explore the hidden square](https://breitbarth.github.io/breitbarth/lab/representation.html). Change notation, sequence, spatial layers and language to expose a mathematical invariant; then predict a new instance and explain it without the diagram. Replaces the introductory multiplication illustration on the website; the original remains in Git history and in the public example ledger. This is a guided demonstration, not a controlled experiment.
